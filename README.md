@@ -33,8 +33,8 @@
     </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
-    <div align= "center"> <a href=mailto:osy9112@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:osy9112@gmail.com"> </a>
-          </div>  
+         <p> Email: hyg9112@naver.com </p>
+         <p> Github: https://github.com/Han-zerobacteria </p>
     </div>
 
     
