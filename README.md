@@ -31,10 +31,20 @@
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">
           </div>
     </div>
+    </div>
+    <div align= "center">
+        <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Project Summary</h2>
+        <h3> 1. JUST DO EAT — AI 기반 외식 추천 서비스 </h3>   
+            <p> React + Zustand 기반 사용자 플로우 중심 페이지 UI 개발 </p>
+            <p> 공통 UI 컴포넌트 설계 → Feature-Sliced 구조로 재사용성 확보 </p>
+            <p>  랜덤 룰렛· 스와이프 UI 구현 </p>
+            <h4> GitHub: https://github.com/Han-zerobacteria/JUSTDOEAT </h4>        
+            <h4> Stack:</h4> React 18 · TypeScript · Zustand · React Query 
+            <br> Spring Boot · JPA · Spring Security · JWT 
+            <br> PostgreSQL · Redis · FastAPI · LightGBM · AWS EC2/S3 · Docker · Nginx · GitLab/Jenkins
+    </div>
     <div align= "center">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🧑‍💻 Contact me </h2> <br> 
          <p> Email: hyg9112@naver.com </p>
          <p> Github: https://github.com/Han-zerobacteria </p>
-    </div>
-
     
