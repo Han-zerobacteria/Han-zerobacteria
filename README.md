@@ -34,6 +34,7 @@
     </div>
     <div align= "center">
         <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Project Summary</h2>
+            <br>
             <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 1. JUST DO EAT — AI 기반 외식 추천 서비스 </h3>
             <h4> 온보딩 기반 취향 분석 · 개인/모임 추천 · 약속 생성 · 투표 시스템 </h4>
                 <p> React + TypeScript 기반 사용자 플로우 중심 페이지 UI 개발 </p>
@@ -43,6 +44,7 @@
                 <h4> Stack:</h4> React 18 · TypeScript · Zustand · React Query 
                 <br> Spring Boot · JPA · Spring Security · JWT 
                 <br> PostgreSQL · Redis · FastAPI · LightGBM · AWS EC2/S3 · Docker · Nginx · GitLab/Jenkins
+            <br>
             <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 2. Re:code — AI 기반 알고리즘 오답노트 SNS </h3>
             <h4> BOJ 제출 기록을 연동하여 AI가 실패 코드를 분석하고 오답노트를 자동 생성하는 SNS </h4>
                 <p> React + TypeScript 기반 UI 컴포넌트 제작 </p>
@@ -52,6 +54,7 @@
                 <h4> Stack:</h4> React 18 · TypeScript · Zustand · Vite · TailwindCSS · Axios 
                 <br> Spring Boot · JPA · Spring Security · JWT 
                 <br> MySQL · GPTAPI · AWS EC2 · Docker · Chrome Extension
+            <br>
             <h3 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 3. BOOKUS — 온라인 책모임 플랫 </h3>
             <h4> 독서를 좋아하는 사람들이 함께 모여 책을 읽고, 토론하고, 감상을 나눌 수 있도록 함께 쓰는 독후감, 퀴증 등 다양한 기능을 제공 </h4>
                 <p> Django로 기본 CRUD 관련 백엔드 API 구축 </p>
