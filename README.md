@@ -95,6 +95,8 @@
   <br>ChatGPT API · Naver API · Aladin API
 </div>
 
+  <!-- CPR -->
+
 <br/><br/>
 
 <div align="center">
