@@ -59,7 +59,7 @@
   <p>랜덤 룰렛 UI · 스와이프 기반 제스처 인터랙션 구현</p>
   <h4>GitHub: https://github.com/Han-zerobacteria/JUSTDOEAT</h4>
   <h4>Stack:</h4>
-  React 18 · TypeScript · Zustand · React Query  
+  <b>React 18 · TypeScript · Zustand · React Query</b> 
   <br>Spring Boot · JPA · Spring Security · JWT  
   <br>PostgreSQL · Redis · FastAPI · LightGBM  
   <br>AWS EC2/S3 · Docker · Nginx · GitLab · Jenkins
