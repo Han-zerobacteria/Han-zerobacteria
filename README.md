@@ -75,7 +75,7 @@
   <p>Chrome Extension 연동을 통한 제출 기록 자동 수집</p>
   <h4>GitHub: https://github.com/Han-zerobacteria/recode</h4>
   <h4>Stack:</h4>
-  React 18 · TypeScript · Zustand · Vite · TailwindCSS  
+  <b>React 18 · TypeScript · Zustand · Vite · TailwindCSS</b>  
   <br>Spring Boot · JPA · Spring Security · JWT  
   <br>MySQL · GPT API · AWS EC2 · Docker · Chrome Extension
 
