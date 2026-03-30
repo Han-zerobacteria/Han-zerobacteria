@@ -72,7 +72,6 @@
   <h4>BOJ 제출 기록 기반으로 실패 로직을 분석해 AI 오답노트 자동 생성</h4>
   <p>React + TypeScript 기반 UI 컴포넌트 및 서비스 흐름 개발</p>
   <p>Zustand 기반 전역 상태 관리 및 사용자 인증 로직 통합</p>
-  <p>Chrome Extension 연동을 통한 제출 기록 자동 수집</p>
   <h4>GitHub: https://github.com/Han-zerobacteria/recode</h4>
   <h4>Stack:</h4>
   <b>React 18 · TypeScript · Zustand · Vite · TailwindCSS</b>  
