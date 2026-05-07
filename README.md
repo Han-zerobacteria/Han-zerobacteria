@@ -83,6 +83,7 @@
   <!-- BOOKUS -->
   <h3 style="color: #c9d1d9;">3. BOOKUS — 온라인 책모임 플랫폼</h3>
   <hr style="border: 0; border-bottom: 1px solid #21262d; width: 60%;">
+  <h4>함께 작성하는 독후감, 퀴즈 등 함께 이용할 수 있는 독서 컨텐츠</h4>
   <p>Django 기반 CRUD API 개발 및 인증/권한 로직 구축</p>
   <p>책 모임 → 토론 → 독후감으로 이어지는 사용자 흐름 기획 및 설계</p>
   <p>Notion·Figma 기반 화면 설계 및 서비스 구조 문서화</p>
